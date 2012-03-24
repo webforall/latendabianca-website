@@ -10,3 +10,4 @@ wp-config.php
 /wp-content/uploads/*
 !/wp-content/uploads/.ignore
 /wp-content/themes/whitelight/cache/*
+!/wp-content/themes/whitelight/cache/.ignore
