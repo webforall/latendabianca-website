@@ -1,0 +1,9 @@
+# project files
+.buildpath
+.project
+.settings
+.DS_Store
+nbproject/*
+
+# wordpress specific
+wp-config.php
