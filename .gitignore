@@ -7,5 +7,5 @@ nbproject/*
 
 # wordpress specific
 wp-config.php
-/uploads/*
-!/uploads/.ignore
+/wp-content/uploads/*
+!/wp-content/uploads/.ignore
